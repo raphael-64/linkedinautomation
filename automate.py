@@ -11,8 +11,8 @@ file_path = "contacts.xlsx"  # Change this to your file
 df = pd.read_excel(file_path)
 
 # LinkedIn credentials
-LINKEDIN_EMAIL = "dmishra@quadrite.com"
-LINKEDIN_PASSWORD = "Quadrite123"
+LINKEDIN_EMAIL = "enter ur email"
+LINKEDIN_PASSWORD = "enter ur password"
 
 # Start WebDriver (Ensure you have ChromeDriver installed)
 driver = webdriver.Chrome()
